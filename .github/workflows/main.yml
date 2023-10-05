@@ -14,3 +14,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: elias-moraes
+          GH_TOKEN: ${{ secrets.TOKEN }}

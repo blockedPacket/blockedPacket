@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockedPacket&layout=donut-vertical)]
+
+
+
 
 <!--START_SECTION:badges-->
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/28c94b6f-acd3-424c-97ba-12a8d91d42a6 "Python for Data Science")
